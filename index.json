@@ -1,0 +1,17 @@
+{
+  "name": "joshua-s-personal",
+  "displayName": "Joshua's Personal",
+  "description": "Joshua's personal skillset — agents and skills for recurring personal tasks.",
+  "version": "1.0.1",
+  "agents": [
+    {
+      "name": "NYC Dance Weekly Briefing",
+      "slug": "untitled-ahlf8t",
+      "path": "agents/untitled-ahlf8t/",
+      "version": "1.0.1",
+      "description": "Weekly NYC dance music briefing — produces a Mon–Sun Notion page covering shows, news, and underground parties for Joshua Pollak.",
+      "entrypoint": "CLAUDE.md"
+    }
+  ],
+  "skills": []
+}
