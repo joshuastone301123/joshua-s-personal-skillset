@@ -2,7 +2,7 @@
   "skillset_name": "joshua-s-personal",
   "display_name": "Joshua's Personal",
   "description": "Joshua's personal skillset — agents and skills for recurring personal tasks.",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "skills": [
     {
       "type": "agent",
@@ -11,6 +11,15 @@
       "path": "agents/untitled-ahlf8t/",
       "version": "1.0.1",
       "description": "Weekly NYC dance music briefing — produces a Mon–Sun Notion page covering shows, news, and underground parties for Joshua Pollak.",
+      "entrypoint": "CLAUDE.md"
+    },
+    {
+      "type": "agent",
+      "name": "Weekly Monthly Recap Agent",
+      "slug": "untitled-5mgb4r",
+      "path": "agents/untitled-5mgb4r/",
+      "version": "1.0.1",
+      "description": "Interactive weekly + monthly recaps from JPOS Notion (Tasks + Interactions) with iMessage Q&A; nightly daily-interactions enrichment that fills in note-less Interactions via iMessage cleanup, entity resolution, and confirmation before write.",
       "entrypoint": "CLAUDE.md"
     }
   ],
@@ -21,6 +30,14 @@
       "path": "agents/untitled-ahlf8t/",
       "version": "1.0.1",
       "description": "Weekly NYC dance music briefing — produces a Mon–Sun Notion page covering shows, news, and underground parties for Joshua Pollak.",
+      "entrypoint": "CLAUDE.md"
+    },
+    {
+      "name": "Weekly Monthly Recap Agent",
+      "slug": "untitled-5mgb4r",
+      "path": "agents/untitled-5mgb4r/",
+      "version": "1.0.1",
+      "description": "Interactive weekly + monthly recaps from JPOS Notion (Tasks + Interactions) with iMessage Q&A; nightly daily-interactions enrichment that fills in note-less Interactions via iMessage cleanup, entity resolution, and confirmation before write.",
       "entrypoint": "CLAUDE.md"
     }
   ]
