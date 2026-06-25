@@ -1,0 +1,3 @@
+- [Weekly discovery feedback format](feedback_weekly_discovery_format.md) — Every briefing ends with a 💬 Feedback block; any feedback gets saved to memory immediately.
+- [Weekly discovery Telegram delivery](reference_weekly_discovery_telegram_delivery.md) — Locked bulleted-teaser format pushed to Telegram after every Monday Notion post.
+- [Weekly discovery song sources](feedback_weekly_discovery_song_sources.md) — Songs section must pull from Spotify playlists + Beatport Top 100s and cross-reference across sources before picking.
